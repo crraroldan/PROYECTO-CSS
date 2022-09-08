@@ -12,3 +12,15 @@ li {
 
     background-color: blue;
 }
+
+
+h1 :hover {
+    background-color: chocolate;
+
+}
+
+cambio  :hover{
+
+    cursor: pointer;
+
+}
